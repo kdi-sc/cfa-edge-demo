@@ -50,7 +50,7 @@ const CcaLayout = ({ context }: LayoutProps): JSX.Element => {
             <div className="g-hero__text">
               <div className="txt-container">
                 <h1>
-                  <div role="main">Hello Toronto Test</div>
+                  <div role="main">Hello Toronto!</div>
                 </h1>
                 <p>It's our pleasure to serve you</p>
               </div>
