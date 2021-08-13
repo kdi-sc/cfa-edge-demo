@@ -1,10 +1,10 @@
 {
-  "name": "cfanextdemoc",
+  "name": "nextsampleapp",
   "description": "Application utilizing Sitecore JavaScript Services and Next.js",
   "version": "16.1.0-canary.42",
   "private": true,
   "config": {
-    "appName": "cfanextdemob",
+    "appName": "nextsampleapp",
     "rootPlaceholders": [
       "jss-main"
     ],
