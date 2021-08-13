@@ -1,0 +1,9 @@
+{
+"sitecore": {
+  "instancePath": "",
+  "apiKey": "F088933D-C42A-4092-81FA-A69D2F3F1A60",
+  "deploySecret": "ptgl1hxm0qn7ahc2d7uxa0d8miu3krm1bzqxp5jso",
+  "deployUrl": "https://mcclbqfujohul2ejpbf-cm.sitecoretest.com/sitecore/api/jss/import",
+  "layoutServiceHost": "https://mcclbqfujohul2ejpbf-cm.sitecoretest.com/"
+}
+}
